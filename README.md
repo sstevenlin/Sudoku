@@ -1,2 +1,2 @@
 # Sudoku
-A Sudoku game created with Java
+A simple Sudoku game created in Java utilizing arrays
